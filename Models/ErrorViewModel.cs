@@ -1,5 +1,3 @@
-using System;
-
 namespace eTickets.Models
 {
     public class ErrorViewModel
